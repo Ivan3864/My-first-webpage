@@ -1,3 +1,20 @@
 h1 {
-	color: blue;
+	color:red;
+	font: small-caps;
+	background-color: blue
+
+}
+h2 {
+	color: black;
+	font-style: italic;
+	background-color: green
+
+}
+p {
+	font-family: sans-serif;
+	background-color: pink
+
+}
+ul{
+	line-height: 40px;
 }
